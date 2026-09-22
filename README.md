@@ -1,6 +1,6 @@
 # MateCode Tasks
 
-Aplicación web de gestión de tareas con autenticación, persistencia en tiempo real y envío de resúmenes por email. Proyecto Integrador 4 — Henry.
+Aplicación web de gestión de tareas con autenticación, persistencia en tiempo real y envío de resúmenes por email.
 
 **Demo en vivo:** matecode-tasks-six.vercel.app
 
